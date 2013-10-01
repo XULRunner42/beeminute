@@ -16,3 +16,5 @@ tmp
 .yardoc
 _yardoc
 doc/
+beegraph.sqlite
+20-minutes.json
